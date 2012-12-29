@@ -23,7 +23,7 @@
   ],
   "bugs":[
     {
-      "description":"IE7 doesn't support all pseudo classes (like :focus) or pseudo elements (like :before and :after)"
+      "description":"IE7 doesn't support all pseudo classes (like :focus) or pseudo elements (like ::before and ::after)"
     }
   ],
   "categories":[
